@@ -1,0 +1,137 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Añade aquí tu código CSS.
+
+Por ejemplo:
+.ejemplo {
+    color: red;
+}
+
+Para mejorar tu conocimiento sobre CSS knowledge echa un vistazo a http://www.w3schools.com/css/css_syntax.asp
+
+Colores:
+Azul: #1f5a8f
+Naranja; #e59e4f
+
+Fin del comentario */ 
+
+div.row-top-page {
+  height: 10.8rem;
+}
+
+div#contentMainButtonsIpano {
+    position: absolute;
+    width: 98%;
+    bottom: 8rem;
+    display: flex;
+    justify-content: center;
+}
+div#contentButtonsIpano {
+    background: #0a0a0a4d;
+    padding: 0.5rem 3rem;
+    display: flex;
+}
+div.btn-ipano {
+    padding: 0 1rem;
+    margin: 0 0.5rem;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+}
+
+div.btn-ipano:hover {
+    color: #e59e4f;
+    border-color: #e59e4f;
+}
+
+p.style-tooltip {
+    color: #1f5a8f;
+    padding: 0 0.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+/*.animation-circle-icon {
+    animation: ipnrm-animation-bubbles .7s steps(7) infinite alternate;
+    width: 50px;
+    height: 50px;
+    background-image: url('https://cenipalma.creategicalatina.com/wp-content/uploads/2021/09/animation.png');
+}*/
+
+.spacing-login {
+    height: 6rem !important;
+}
+
+/***  Estilos inicio de sesion  ***/
+p.login-submit {
+    text-align: center;
+}
+input.btn-login {
+    background: #1f5a8f;
+    color: #ffffff;
+    border-radius: 22px;
+}
+input.btn-login:hover {
+    background: #e59e4f;
+    color: #ffffff;
+}
+
+.pmpro_member_log_out {
+    text-align: center;
+    padding: 2rem 0 1rem;
+}
+
+a.btn-go-event {
+    background: #1f5a8f;
+    padding: 0.8rem 1rem;
+    border-radius: 22px;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+a.btn-go-event:hover {
+    background: #e59e4f;
+}
+
+a.btn-logout-pmpro {
+    background: #e59e4f;
+    padding: 0.8rem 1rem;
+    border-radius: 22px;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+a.btn-logout-pmpro:hover {
+    background: #1f5a8f;
+}
+
+span.wd-tools-text {
+    text-transform: none !important;
+}
+
+
+
+/***  Estilos para moviles  ***/
+@media (max-width: 767.98px) { 
+	div.row-top-page {
+      height: 7rem;
+    }
+  	.spacing-login {
+      height: 2rem !important;
+    }
+}
+/*
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	div#rowTopPage {
+      height: 12vh;
+    }
+}
+
+@media (min-width: 1200px) { 
+	div#rowTopPage {
+      height: 18vh;
+    }
+}*/
+</style>
+<!-- end Simple Custom CSS and JS -->
