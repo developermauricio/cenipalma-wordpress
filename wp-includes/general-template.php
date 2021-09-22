@@ -581,11 +581,30 @@ function wp_login_form( $args = array() ) {
 			' . $login_form_top . '
 			<p class="login-username">
 				<label for="' . esc_attr( $args['id_username'] ) . '">Correo electrónico</label>
-				<input type="text" name="log" id="' . esc_attr( $args['id_username'] ) . '" class="input" value="' . esc_attr( $args['value_username'] ) . '" size="20" />
+				<input type="text" name="log" id="' . esc_attr( $args['id_username'] ) . '" class="input input-username" value="' . esc_attr( $args['value_username'] ) . '" size="20" />
 			</p>
 			<p class="login-password">
 				<label for="' . esc_attr( $args['id_password'] ) . '">' . esc_html( $args['label_password'] ) . '</label>
-				<input type="password" name="pwd" id="' . esc_attr( $args['id_password'] ) . '" class="input" value="" size="20" />
+				<input type="password" name="pwd" id="' . esc_attr( $args['id_password'] ) . '" class="input input-password" value="" size="20" />
+				<span id="view-password">
+				<svg id="showPassword" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-eye-fill svg-view-password" style="display:none" viewBox="0 0 16 16">
+				<path d="M10.5 8a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0z"/>
+				<path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8zm8 3.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z"/>
+			  </svg>
+			  <svg id="hidenPassword" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-eye-slash-fill svg-view-password" viewBox="0 0 16 16">
+				<path d="m10.79 12.912-1.614-1.615a3.5 3.5 0 0 1-4.474-4.474l-2.06-2.06C.938 6.278 0 8 0 8s3 5.5 8 5.5a7.029 7.029 0 0 0 2.79-.588zM5.21 3.088A7.028 7.028 0 0 1 8 2.5c5 0 8 5.5 8 5.5s-.939 1.721-2.641 3.238l-2.062-2.062a3.5 3.5 0 0 0-4.474-4.474L5.21 3.089z"/>
+				<path d="M5.525 7.646a2.5 2.5 0 0 0 2.829 2.829l-2.83-2.829zm4.95.708-2.829-2.83a2.5 2.5 0 0 1 2.829 2.829zm3.171 6-12-12 .708-.708 12 12-.708.708z"/>
+				</svg>
+			  </span>
+			</p>
+			<p>
+				<div class="contet-radio-buttom">
+					<div class="text-radio-buttom">Al suministrar el correo electrónico para su registro en la plataforma otorga autorización a Fedepalma/Cenipalma para su uso con este propósito y el de remitir las memorias del evento.</div>
+					<label class="label-radio">
+						<input class="button button-primary" type="checkbox" name="terms" id="termsRadioButtom">
+						Aceptar
+					</label>					
+				</div>
 			</p>
 			' . $login_form_middle . '
 			' . ( $args['remember'] ? '<p class="login-remember"><label><input name="rememberme" type="checkbox" id="' . esc_attr( $args['id_remember'] ) . '" value="forever"' . ( $args['value_remember'] ? ' checked="checked"' : '' ) . ' /> ' . esc_html( $args['label_remember'] ) . '</label></p>' : '' ) . '

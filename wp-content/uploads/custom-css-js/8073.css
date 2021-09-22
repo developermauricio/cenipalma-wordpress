@@ -19,48 +19,17 @@ div.row-top-page {
   height: 10.8rem;
 }
 
-div#contentMainButtonsIpano {
-    position: absolute;
-    width: 98%;
-    bottom: 8rem;
-    display: flex;
-    justify-content: center;
-}
-div#contentButtonsIpano {
-    background: #0a0a0a4d;
-    padding: 0.5rem 3rem;
-    display: flex;
-}
-div.btn-ipano {
-    padding: 0 1rem;
-    margin: 0 0.5rem;
-    border: 2px solid white;
-    color: white;
-    cursor: pointer;
-}
-
-div.btn-ipano:hover {
-    color: #e59e4f;
-    border-color: #e59e4f;
-}
-
 p.style-tooltip {
-    color: #1f5a8f;
+    color: white;
     padding: 0 0.5rem;
     font-size: 1rem;
     font-weight: 600;
 }
 
-/*.animation-circle-icon {
-    animation: ipnrm-animation-bubbles .7s steps(7) infinite alternate;
-    width: 50px;
-    height: 50px;
-    background-image: url('https://cenipalma.creategicalatina.com/wp-content/uploads/2021/09/animation.png');
-}*/
-
 .spacing-login {
     height: 6rem !important;
 }
+
 
 /***  Estilos inicio de sesion  ***/
 p.login-submit {
@@ -74,6 +43,18 @@ input.btn-login {
 input.btn-login:hover {
     background: #e59e4f;
     color: #ffffff;
+}
+
+span#view-password {
+    background: #e1e1e1;
+    padding: 0.6rem 0.6rem 0.4rem 0.6rem;
+    margin-left: -41px;
+    position: absolute;
+  	cursor: pointer;
+}
+.svg-view-password {
+    height: auto;
+    color: #1f5a8f;
 }
 
 .pmpro_member_log_out {
@@ -108,6 +89,65 @@ a.btn-logout-pmpro:hover {
 
 span.wd-tools-text {
     text-transform: none !important;
+}
+
+div#contentConference {
+    width: 100vh;
+    min-width: 1200px;
+    min-height: 700px;
+}
+
+.contet-radio-buttom {
+    margin-bottom: 1rem;
+}
+.text-radio-buttom {
+    text-align: justify;
+}
+
+
+
+/*** EStilos para usuarios sin acceso a la pagina  ***/
+.pmpro_content_message {
+    padding-top: 15rem;
+    font-size: 1.2rem;
+}
+
+a.btn-login-url {
+    background: #1f5a8f !important;
+    padding: 0.8rem 1.5rem !important;
+    border-radius: 25px !important;
+    color: white !important;
+    font-size: 1rem;
+    font-weight: bold !important;
+}
+a.btn-login-url:hover {
+  	background: #e59e4f !important;
+}
+
+
+/***  Estilo para los puntos  ***/
+.content-title-points {
+  text-align: center;
+  cursor: pointer;
+}
+.title-points {
+  color: #1f5a8f;
+  font-size: 1rem;
+  line-height: 0.5;
+}
+strong#my-total-points {
+  font-size: 1.2rem;
+  color: #f09652;
+}
+.btn-terms-conditions {
+    margin-bottom: 2rem;
+    color: #ee8436 !important;
+    font-size: 1.5rem;
+    border-bottom: none !important;
+  text-transform: none;
+}
+.btn-terms-conditions:hover {
+  color: #1f5a8f !important;
 }
 
 

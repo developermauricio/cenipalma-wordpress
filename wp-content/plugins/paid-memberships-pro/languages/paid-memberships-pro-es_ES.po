@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-23T21:00:19+00:00\n"
-"PO-Revision-Date: 2021-09-14 17:11+0000\n"
+"PO-Revision-Date: 2021-09-21 17:35+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: paid-memberships-pro\n"
 "Language: es_ES\n"
@@ -8061,10 +8061,11 @@ msgstr ""
 #: includes/login.php:328
 msgid "Empty username. Please enter your username and try again."
 msgstr ""
+"Nombre de usuario vacío. Ingrese su correo electrónico y vuelva a intentarlo."
 
 #: includes/login.php:332
 msgid "Empty password. Please enter your password and try again."
-msgstr ""
+msgstr "Contraseña vacía. Ingrese su contraseña y vuelva a intentarlo."
 
 #: includes/login.php:336
 msgid "The password you entered for the user is incorrect. Please try again."

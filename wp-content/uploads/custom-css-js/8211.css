@@ -1,0 +1,92 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Añade aquí tu código CSS.
+
+Por ejemplo:
+.ejemplo {
+    color: red;
+}
+
+Para mejorar tu conocimiento sobre CSS knowledge echa un vistazo a http://www.w3schools.com/css/css_syntax.asp
+
+Fin del comentario */ 
+
+/***  Estilos de slider principal  ***/
+div#contentMainButtonsIpano {
+    position: absolute;
+    width: 98%;
+    bottom: 5rem;
+    display: flex;
+    justify-content: center;
+}
+div#contentButtonsIpano {
+    background: #0a0a0a4d;
+    padding: 0.5rem 3rem;
+    display: flex;
+}
+div.btn-ipano {
+    padding: 0 1rem;
+    margin: 0 0.5rem;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+}
+
+div.btn-ipano:hover {
+    color: #e59e4f;
+    border-color: #e59e4f;
+}
+div#btnPabellon1 {
+    display: none;
+}
+div#btnPabellon2 {
+    display: none;
+}
+
+
+
+/***  Estilos de slider stands  ***/
+div#contentMainSliderStand {
+    padding: 0 12rem !important;
+    position: absolute !important;
+    bottom: 25rem;
+  	display: none;
+}
+div#mainSliderStand {
+    background: #17161661;
+    padding: 2px 0;
+}
+div#mainSliderStand .wd-carousel-container {
+    margin-bottom: 0;
+}
+div.slider-stand .owl-dots {
+    display: none;
+}
+
+div.item-slider-stand h4 {
+  color: white;
+  border: 2px solid white;
+  margin-bottom: 0 !important;
+  padding: 1px 0;
+  font-weight: 400;
+  font-size: 1rem;
+  cursor: pointer;
+}
+div.item-slider-stand h4:hover {
+  color: #e59e4f;
+  border-color: #e59e4f;
+}
+
+.active-stand {
+  border-color: red;
+  color: red;
+}
+
+.slider-stand .wd-btn-arrow {
+    color: white;
+    background: #0a0a0a73;
+    border-radius: 15rem;
+}
+
+    </style>
+<!-- end Simple Custom CSS and JS -->

@@ -51,7 +51,7 @@ if ( function_exists( 'WC' ) && version_compare( WC()->version, '3.5.0', '<' ) )
 }
 
 //TODO: cenipalma rediriguir a la pagina del login
-header('Location: https://cenipalma.creategicalatina.com/login');
+header('Location: https://reuniontecnicanacional.com/login');
 exit();
 
 do_action( 'woocommerce_before_customer_login_form' ); ?>

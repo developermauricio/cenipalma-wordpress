@@ -20,16 +20,16 @@ function pmpro_shortcode_account($atts, $content=null, $code="")
 			fullname: '<?php echo $user->display_name; ?>'
 		}
 
-		jQuery.ajax({
-			url: 'https://backend-cenipalma.creategicalatina.com/api/register-or-login',
+		jQuery.ajax({  
+			url: 'https://backend.reuniontecnicanacional.com/api/register-or-login',
 			type: "POST",
 			data: dataUser,
 			success: function (response) {
-				window.location.href = 'https://cenipalma.creategicalatina.com/evento';
+				window.location.href = 'https://reuniontecnicanacional.com/evento';
 			},
 			error: function(jqXHR, textStatus, errorThrown) {
 				console.log('Error... ',textStatus, errorThrown);
-				window.location.href = 'https://cenipalma.creategicalatina.com/evento';
+				window.location.href = 'https://reuniontecnicanacional.com/evento';
 			}
     	}); 
 

@@ -11,22 +11,41 @@ font-size:35px;
 line-height:35px;
 color:#ffffff;
 }
-.ipnrm-1 [data-marker-id="720181DEA1"] .ipnrm-tag {
+.ipnrm-1 [data-marker-id="16E41958E9"] .ipnrm-tag {
 background-size:contain;
 background-repeat:no-repeat;
 background-position:50% 50%;
 }
-.ipnrm-1 [data-marker-id="720181DEA1"] .ipnrm-lbl {
+.ipnrm-1 [data-marker-id="16E41958E9"] .ipnrm-lbl {
 font-size:30px;
 line-height:30px;
 color:#ffffff;
 }
-.ipnrm-1 [data-marker-id="EEB523460E"] .ipnrm-tag {
+.ipnrm-1 [data-marker-id="720181DEA1"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/img-auditorio.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+border-top-left-radius:5px;
+border-top-right-radius:5px;
+border-bottom-right-radius:5px;
+border-bottom-left-radius:5px;
+}
+.ipnrm-1 [data-marker-id="720181DEA1"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="B7ED4D9985"] .ipnrm-tag {
 background-size:contain;
 background-repeat:no-repeat;
 background-position:50% 50%;
 }
-.ipnrm-1 [data-marker-id="EEB523460E"] .ipnrm-lbl {
+.ipnrm-1 [data-marker-id="B7ED4D9985"] .ipnrm-lbl {
 font-size:30px;
 line-height:30px;
 color:#ffffff;
@@ -37,9 +56,13 @@ background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="404785CC39"] .ipnrm-lbl {
-font-size:30px;
-line-height:30px;
-color:#1f5a8f;
+font-size:35px;
+line-height:35px;
+color:#d40808;
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
 }
 .ipnrm-1 [data-marker-id="61CD91CEED"] .ipnrm-tag {
 background-size:contain;

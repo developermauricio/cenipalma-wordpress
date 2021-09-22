@@ -478,13 +478,13 @@ function pmpro_login_forms_handler( $show_menu = true, $show_logout_link = true,
 				<div class="<?php echo pmpro_get_element_class( 'pmpro_login_wrap' ); ?>">
 					<?php
 						if ( ! pmpro_is_login_page() ) {
-							echo 'hola...';							
+							//echo 'hola...';							
 							echo $before_title . esc_html__( 'Log In', 'paid-memberships-pro' ) . $after_title;
 						}
 					?>
 					<?php
 						pmpro_login_form( array( 'value_username' => esc_html( $username ), 'redirect' => esc_url( $redirect_to ) ) );
-						//pmpro_login_forms_handler_nav( 'login' ); TODO: funcion para recuperar contraseña...
+						//pmpro_login_forms_handler_nav( 'login' ); TODO: cenipalma funcion para recuperar contraseña...
 					?>
 				</div> <!-- end pmpro_login_wrap -->
 				<?php if ( pmpro_is_login_page() ) { ?>
@@ -536,7 +536,7 @@ function pmpro_login_forms_handler( $show_menu = true, $show_logout_link = true,
 			<div class="<?php echo pmpro_get_element_class( 'pmpro_logged_in_welcome_wrap' ); ?>">
 				<?php pmpro_logged_in_welcome( $show_menu, $show_logout_link ); ?>
 			</div> <!-- end pmpro_logged_in_welcome_wrap -->
-			<!-- <div class="cont-btn-event"><a class="btn-go-event" href="https://cenipalma.creategicalatina.com/evento">Ir al evento</a></div> -->
+			<!-- <div class="cont-btn-event"><a class="btn-go-event" href="/evento">Ir al evento</a></div> -->
 			<?php //TODO: cenipalma btn para ir al evento
 		}
 	}
@@ -967,7 +967,7 @@ function pmpro_logged_in_welcome( $show_menu = true, $show_logout_link = true ) 
 		 */
 		if ( ! empty ( $show_logout_link ) ) { ?>
 			<div class="<?php echo pmpro_get_element_class( 'pmpro_member_log_out' ); ?>">
-				<a class="btn-go-event" href="https://cenipalma.creategicalatina.com/evento">Ir al evento</a>
+				<a class="btn-go-event" href="/evento">Ir al evento</a>
 				<!-- <a class="btn-logout-pmpro" href="< ?php echo esc_url( wp_logout_url() ); ?>">< ?php esc_html_e( 'Log Out', 'paid-memberships-pro' ); ?></a> -->
 				<!-- <a class="btn-logout-pmpro" href="< ?php echo esc_url( wp_logout_url() ); ?>">Cerrar sesión</a> -->
 			</div>

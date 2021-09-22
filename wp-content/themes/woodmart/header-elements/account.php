@@ -33,7 +33,7 @@ woodmart_enqueue_inline_style( 'header-my-account' );
 <div class="wd-header-my-account wd-tools-element wd-event-hover <?php echo esc_attr( $classes ); ?>">
 	<?php foreach ($links as $key => $link): ?>
 		<!-- <a href="< ?php echo esc_url( $link['url'] ); ?>" title="< ?php echo esc_attr__( 'My account', 'woodmart' ); ?>"> -->
-		<a href="https://cenipalma.creategicalatina.com/login" title="ir al login">
+		<a href="/login" title="ir al login">
 			<span class="wd-tools-icon">
 				<?php
 				if ( $icon_type == 'custom' && $my_account_style == 'icon' ) {
