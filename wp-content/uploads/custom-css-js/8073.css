@@ -102,6 +102,7 @@ div#contentConference {
 }
 .text-radio-buttom {
     text-align: justify;
+  	font-size: 0.8rem;
 }
 
 
@@ -149,7 +150,16 @@ strong#my-total-points {
 .btn-terms-conditions:hover {
   color: #1f5a8f !important;
 }
+.main-content-checkbox {
+    text-align: center;
+}
 
+.content-info {
+    padding: 5px;
+}
+div.style-info {
+    padding: 5px;
+}
 
 
 /***  Estilos para moviles  ***/
@@ -160,6 +170,20 @@ strong#my-total-points {
   	.spacing-login {
       height: 2rem !important;
     }
+  
+  	.content-title-points {
+      padding-top: 15px;
+      margin-right: 5px;
+    }
+  	.title-points {
+      font-size: 0.8rem;
+      line-height: 0;
+    }
+  	strong#my-total-points-movil {
+      font-size: 1rem;
+      color: #f09652;
+    }
+
 }
 /*
 @media (min-width: 992px) and (max-width: 1199.98px) { 

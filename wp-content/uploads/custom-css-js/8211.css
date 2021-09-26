@@ -88,5 +88,30 @@ div.item-slider-stand h4:hover {
     border-radius: 15rem;
 }
 
+
+@media (max-width: 575.98px) {
+	div#contentMainSliderStand {
+    	display: none !important;
+  	}
+}
+
+
+/***  estilos landscape  ***/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  div#contentMainSliderStand {
+    display: none !important;
+    /*padding: 0 4rem !important;
+    bottom: 33rem;*/
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	div#contentMainSliderStand {
+        padding: 0 5rem !important;
+        bottom: 20rem;
+    }
+}
+
+
     </style>
 <!-- end Simple Custom CSS and JS -->

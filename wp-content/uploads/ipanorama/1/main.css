@@ -21,6 +21,49 @@ font-size:30px;
 line-height:30px;
 color:#ffffff;
 }
+.ipnrm-1 [data-marker-id="43D9A0F433"] .ipnrm-tag {
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="43D9A0F433"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:15px;
+margin-bottom:10px;
+margin-left:15px;
+}
+.ipnrm-1 [data-marker-id="E8D8B487E5"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/encuestas-y-certificados.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="E8D8B487E5"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="940E9274E3"] .ipnrm-tag {
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="940E9274E3"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:#f38e23;
+margin-top:10px;
+margin-right:15px;
+margin-bottom:10px;
+margin-left:15px;
+}
 .ipnrm-1 [data-marker-id="720181DEA1"] .ipnrm-tag {
 background-image:url(/wp-content/uploads/2021/09/img-auditorio.png);
 background-size:contain;
@@ -40,15 +83,385 @@ margin-right:20px;
 margin-bottom:10px;
 margin-left:20px;
 }
-.ipnrm-1 [data-marker-id="B7ED4D9985"] .ipnrm-tag {
+.ipnrm-1 [data-marker-id="81A92F2CEB"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/img-auditorio.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+border-top-left-radius:5px;
+border-top-right-radius:5px;
+border-bottom-right-radius:5px;
+border-bottom-left-radius:5px;
+}
+.ipnrm-1 [data-marker-id="81A92F2CEB"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="EA2031B780"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/galerias-de-posters.png);
 background-size:contain;
 background-repeat:no-repeat;
 background-position:50% 50%;
 }
-.ipnrm-1 [data-marker-id="B7ED4D9985"] .ipnrm-lbl {
+.ipnrm-1 [data-marker-id="EA2031B780"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="A8E29B1AEF"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A8E29B1AEF"] .ipnrm-lbl {
 font-size:30px;
 line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="F0BCB24823"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="F0BCB24823"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="C37145E89F"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="C37145E89F"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="6233629BDC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6233629BDC"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="CF602E2A64"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="CF602E2A64"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="6AE595E7E8"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6AE595E7E8"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="A58E3A266F"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A58E3A266F"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="B52A90B154"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="B52A90B154"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="BEAFF68EA7"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="BEAFF68EA7"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="A9783DDD71"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A9783DDD71"] .ipnrm-lbl {
+font-size:30px;
+line-height:30px;
+color:rgba(212,2,16,0);
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="18205CD022"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/logo-ceni.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="18205CD022"] .ipnrm-lbl {
+font-size:80px;
+line-height:80px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="EB9C340AC5"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/logo-mono.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="EB9C340AC5"] .ipnrm-lbl {
+font-size:110px;
+line-height:110px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="1092D575BF"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-ace.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="1092D575BF"] .ipnrm-lbl {
+font-size:80px;
+line-height:80px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="5035C8260B"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/logo-tecno.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="5035C8260B"] .ipnrm-lbl {
+font-size:85px;
+line-height:85px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="CCC3CEDFA1"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-yara.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="CCC3CEDFA1"] .ipnrm-lbl {
+font-size:60px;
+line-height:60px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="53EF3DD47C"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-metalteco.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="53EF3DD47C"] .ipnrm-lbl {
+font-size:70px;
+line-height:70px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="D312F25483"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-phina.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="D312F25483"] .ipnrm-lbl {
+font-size:80px;
+line-height:80px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="A91AFEFE5B"] .ipnrm-tag {
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A91AFEFE5B"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
 color:#ffffff;
+}
+.ipnrm-1 [data-marker-id="C5FA104F69"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-disagro.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="C5FA104F69"] .ipnrm-lbl {
+font-size:90px;
+line-height:90px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="7E360FC488"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/logo-distrimalayo.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="7E360FC488"] .ipnrm-lbl {
+font-size:80px;
+line-height:80px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="2FD43D24C4"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-tienda-palmera.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="2FD43D24C4"] .ipnrm-lbl {
+font-size:70px;
+line-height:70px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="44913CE9C6"] .ipnrm-tag {
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="44913CE9C6"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:#ffffff;
+}
+.ipnrm-1 [data-marker-id="32B070F87B"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/CID-LOGO-Final-01.jpg);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="32B070F87B"] .ipnrm-lbl {
+font-size:60px;
+line-height:60px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="CEB07D8816"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Logo-Alta-Resolucion.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="CEB07D8816"] .ipnrm-lbl {
+font-size:70px;
+line-height:70px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="32EB235C46"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo_palmelit.jpg);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="32EB235C46"] .ipnrm-lbl {
+font-size:75px;
+line-height:75px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="0EA8F00645"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/logo-danco.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="0EA8F00645"] .ipnrm-lbl {
+font-size:85px;
+line-height:85px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="D1895B413F"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-banco-agrario.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="D1895B413F"] .ipnrm-lbl {
+font-size:60px;
+line-height:60px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="1C7CE8CFC2"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-daabon.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="1C7CE8CFC2"] .ipnrm-lbl {
+font-size:70px;
+line-height:70px;
+color:rgba(31,90,143,0);
 }
 .ipnrm-1 [data-marker-id="404785CC39"] .ipnrm-tag {
 background-size:contain;
@@ -65,22 +478,1742 @@ margin-bottom:10px;
 margin-left:20px;
 }
 .ipnrm-1 [data-marker-id="61CD91CEED"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
 background-size:contain;
 background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="61CD91CEED"] .ipnrm-lbl {
-font-size:30px;
-line-height:30px;
-color:#218004;
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
 }
 .ipnrm-1 [data-marker-id="2413A417DD"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
 background-size:contain;
 background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="2413A417DD"] .ipnrm-lbl {
-font-size:30px;
-line-height:30px;
-color:#1f5a8f;
+font-size:40px;
+line-height:40px;
+color:rgba(31,90,143,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="CD9C40B88C"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="CD9C40B88C"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(31,90,143,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="C7260CFD61"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="C7260CFD61"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(31,90,143,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="5B13CC3246"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="5B13CC3246"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="009E94591D"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="009E94591D"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="759A0A15A0"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="759A0A15A0"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="31E98C0664"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="31E98C0664"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="7310C8C9DE"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="7310C8C9DE"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(31,90,143,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="083CA7AE2B"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="083CA7AE2B"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(31,90,143,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="4E0E0C9657"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="4E0E0C9657"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="1C07679815"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="1C07679815"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="332CB2ADCB"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="332CB2ADCB"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="4B024196BD"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="4B024196BD"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="9650F2A3F9"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="9650F2A3F9"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="B9CF17C25C"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="B9CF17C25C"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="7C53E3D750"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="7C53E3D750"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="C614C1E19D"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="C614C1E19D"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="E99A41D79C"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="E99A41D79C"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="EF746C497B"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="EF746C497B"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="34B8BC3D43"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="34B8BC3D43"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="9C29B3C0E2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="9C29B3C0E2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="A36D24415C"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A36D24415C"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="38E1E31F4C"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="38E1E31F4C"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="E438CBED6F"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="E438CBED6F"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="2E112DAEA2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="2E112DAEA2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="D10848C1CD"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="D10848C1CD"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="55008BCE22"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="55008BCE22"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="AD833022C3"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="AD833022C3"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="D518027052"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="D518027052"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="FF46E214AC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="FF46E214AC"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="2C74448AD5"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="2C74448AD5"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="C8ACDF08A3"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="C8ACDF08A3"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="32ECFCB91C"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="32ECFCB91C"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="0FAA5F724F"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="0FAA5F724F"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="EC3A41A10D"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="EC3A41A10D"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="75D0F9BE77"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="75D0F9BE77"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="912189CB67"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="912189CB67"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="8278A0F1B4"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="8278A0F1B4"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="DF68EEF728"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="DF68EEF728"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="708265CBB4"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="708265CBB4"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="AD1E4A1FA5"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="AD1E4A1FA5"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="ACE98F32A5"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="ACE98F32A5"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="6B2E1258B3"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6B2E1258B3"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="08D8899621"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="08D8899621"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="8662188D21"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="8662188D21"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="8CFB01DC71"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="8CFB01DC71"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="2357F83CB2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="2357F83CB2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="A82D06FEA9"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A82D06FEA9"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="CCBDC5C996"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="CCBDC5C996"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="3FFDF83007"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="3FFDF83007"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="CFDD48E430"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="CFDD48E430"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="76CCE3E907"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="76CCE3E907"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="F75835633D"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="F75835633D"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="0119EFABBC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="0119EFABBC"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="B4CF91AC9A"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="B4CF91AC9A"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="E3B187734E"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="E3B187734E"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="36A46C8290"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="36A46C8290"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="3515F983C2"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="3515F983C2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="021A343EA3"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="021A343EA3"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="3451C7D311"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="3451C7D311"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="C83F507BAC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="C83F507BAC"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="7E9398CCD0"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="7E9398CCD0"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="07DCEA5DA0"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="07DCEA5DA0"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="3D0FF35D73"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="3D0FF35D73"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="8D0A59F8DE"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="8D0A59F8DE"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="BAD97D03BE"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="BAD97D03BE"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="B4614CE4DE"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="B4614CE4DE"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="A752FF2E80"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A752FF2E80"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="FD7556BA8C"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="FD7556BA8C"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="391148DFD2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="391148DFD2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="38461F267E"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="38461F267E"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="23C0F089DD"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="23C0F089DD"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="5A5C50DA3F"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="5A5C50DA3F"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="619F62A708"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="619F62A708"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="6FFE72A6D2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6FFE72A6D2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="0FAFF77250"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="0FAFF77250"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="6857C35635"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6857C35635"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="6C73847D74"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6C73847D74"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="B072329681"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="B072329681"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="E773E04B25"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="E773E04B25"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="F118592838"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="F118592838"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="BCD9792217"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="BCD9792217"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="7944E5CB1B"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="7944E5CB1B"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="1A68052034"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="1A68052034"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="FCE1C47617"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="FCE1C47617"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="160AFB9EF5"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="160AFB9EF5"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="91E7FA5EB5"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="91E7FA5EB5"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="D8627EDD8E"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="D8627EDD8E"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="BF9324867B"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="BF9324867B"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(33,128,4,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="12A72F66DA"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="12A72F66DA"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="F1223848A7"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="F1223848A7"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="A6E40FB6F1"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A6E40FB6F1"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="40F1C817AC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Speaker-Biografia.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="40F1C817AC"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="89918A205B"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="89918A205B"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="8AB6E0C7C7"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="8AB6E0C7C7"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="17BEBAF98F"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="17BEBAF98F"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="6B1D9641CE"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6B1D9641CE"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="4BA64B2603"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="4BA64B2603"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="788B0E8CB0"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="788B0E8CB0"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="845E8C3800"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="845E8C3800"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="073A7C3859"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="073A7C3859"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="735E595238"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="735E595238"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="6706CA304D"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="6706CA304D"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="23298D19EC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="23298D19EC"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="711B75A4D2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="711B75A4D2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="A080F10443"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A080F10443"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="24B40F3B21"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="24B40F3B21"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="00A9BD55FF"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="00A9BD55FF"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="24420C6801"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="24420C6801"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="A19A50F5F9"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="A19A50F5F9"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="C6A4E162BC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="C6A4E162BC"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="5E792147D0"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="5E792147D0"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="CF2A4BEDAC"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="CF2A4BEDAC"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="B7E3E0D165"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="B7E3E0D165"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="8E59C9BCF0"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="8E59C9BCF0"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
 }

@@ -11,31 +11,6 @@ function pmpro_shortcode_account($atts, $content=null, $code="")
 	// $code    ::= the shortcode found, when == callback name
 	// examples: [pmpro_account] [pmpro_account sections="membership,profile"/]
 
-	$user = $current_user->data;
-	if ( $user ) { //TODO: cenipalma login del usuario, guardar en el backend
-	?><script>
-		const dataUser = {
-			email: '<?php echo $user->user_email; ?>',
-			username: '<?php echo $user->user_nicename; ?>',
-			fullname: '<?php echo $user->display_name; ?>'
-		}
-
-		jQuery.ajax({  
-			url: 'https://backend.reuniontecnicanacional.com/api/register-or-login',
-			type: "POST",
-			data: dataUser,
-			success: function (response) {
-				window.location.href = 'https://reuniontecnicanacional.com/evento';
-			},
-			error: function(jqXHR, textStatus, errorThrown) {
-				console.log('Error... ',textStatus, errorThrown);
-				window.location.href = 'https://reuniontecnicanacional.com/evento';
-			}
-    	}); 
-
-	</script><?php }
-	exit(); // cenipalma se detiene la ejecución del codigo
-
 	extract(shortcode_atts(array(
 		'section' => '',
 		'sections' => 'membership,profile,invoices,links'
@@ -55,7 +30,38 @@ function pmpro_shortcode_account($atts, $content=null, $code="")
 	$mylevels = pmpro_getMembershipLevelsForUser();
 	$pmpro_levels = pmpro_getAllLevels(false, true); // just to be sure - include only the ones that allow signups
 	$invoices = $wpdb->get_results("SELECT *, UNIX_TIMESTAMP(CONVERT_TZ(timestamp, '+00:00', @@global.time_zone)) as timestamp FROM $wpdb->pmpro_membership_orders WHERE user_id = '$current_user->ID' AND status NOT IN('review', 'token', 'error') ORDER BY timestamp DESC LIMIT 6");
+	
+	$user = $current_user->data;
+
+	if ( $user ) { //TODO: cenipalma login del usuario, guardar en el backend
 	?>
+	<script>
+		const dataUser = {
+			email: '<?php echo $user->user_email; ?>',
+			username: '<?php echo $user->user_nicename; ?>',
+			fullname: '<?php echo $user->display_name; ?>'
+		}
+		//console.log('data: ', dataUser);
+
+		jQuery.ajax({  
+			url: 'https://backend.reuniontecnicanacional.com/api/register-or-login',
+			type: "POST",
+			data: dataUser,
+			success: function (response) {
+				//console.log('response', response);
+				window.location.href = 'https://reuniontecnicanacional.com/evento';
+			},
+			error: function(jqXHR, textStatus, errorThrown) {
+				console.log('Error... ',textStatus, errorThrown);
+				window.location.href = 'https://reuniontecnicanacional.com/evento';
+			}
+    	}); 
+
+	</script>
+	<?php }
+	exit(); // cenipalma se detiene la ejecución del codigo
+	?>
+
 	<div id="pmpro_account">	
 		<?php if(in_array('membership', $sections) || in_array('memberships', $sections)) { ?>
 			<div id="pmpro_account-membership" class="<?php echo pmpro_get_element_class( 'pmpro_box', 'pmpro_account-membership' ); ?>">

@@ -965,7 +965,8 @@ function pmpro_logged_in_welcome( $show_menu = true, $show_logout_link = true ) 
 		 * User will be redirected to the Membership Account page if no other redirect intercepts the process.
 		 *
 		 */
-		if ( ! empty ( $show_logout_link ) ) { ?>
+		if ( ! empty ( $show_logout_link ) ) {  echo 'llego aqui..'; die('cortar codigo...');?>			
+
 			<div class="<?php echo pmpro_get_element_class( 'pmpro_member_log_out' ); ?>">
 				<a class="btn-go-event" href="/evento">Ir al evento</a>
 				<!-- <a class="btn-logout-pmpro" href="< ?php echo esc_url( wp_logout_url() ); ?>">< ?php esc_html_e( 'Log Out', 'paid-memberships-pro' ); ?></a> -->

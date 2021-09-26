@@ -44,6 +44,22 @@ jQuery(document).ready(function( $ ){
   });
   
   
+  const inputCheck = jQuery("#termsCheck");
+  const buttonViewPoints = jQuery(".btn-view-points");
+  
+  if ( !inputCheck.is(':checked') ) {
+    buttonViewPoints.css("display", 'none');
+  }
+  
+   inputCheck.change( () => {
+    if ( inputCheck.is(':checked') ) {
+      buttonViewPoints.css("display", 'inline-flex');
+    } else {
+      buttonViewPoints.css("display", 'none');
+    }
+  });
+  
+  
   
   const urlTotalPointsUser = 'https://backend.reuniontecnicanacional.com/api/get-total-points-user/'; 
   const urlPointsUser = 'https://backend.reuniontecnicanacional.com/api/get-points-user/';
@@ -82,6 +98,7 @@ jQuery(document).ready(function( $ ){
             type: "GET",
             success: function (response) {
               jQuery('#my-total-points').text(response.data);
+              jQuery('#my-total-points-movil').text(response.data);
             },
             error: function(jqXHR, textStatus, errorThrown) {
                console.log(textStatus, errorThrown);
@@ -105,7 +122,7 @@ jQuery(document).ready(function( $ ){
   const contentTableRankingPoints = jQuery('#contentRankingPoints');  
   
   
-  jQuery('.btn-view-points').click( () => { 
+  buttonViewPoints.click( () => { 
     // Puntos por usuario
     const headerTable1 = {
       col1: '#',
@@ -134,8 +151,10 @@ jQuery(document).ready(function( $ ){
             type: "GET",
             success: function (response) {    
               	if ( ranking ) {
+                  	contentTableRankingPoints.empty();
                 	contentTableRankingPoints.append( createTable(response.data, header, true) );
               	} else {
+                  	contentTableMyPoints.empty();
                   	contentTableMyPoints.append( createTable(response.data, header) );
                 }
             },

@@ -11,22 +11,6 @@ Para mejorar tu conocimiento sobre CSS knowledge echa un vistazo a http://www.w3
 
 Fin del comentario */ 
 
-.container__star {
-    position: absolute;
-    text-align: center;
-    bottom: .5rem;
-    left: 0;
-    right: 0;
-}
-
-.container__star .stars {
-    margin: auto;
-}
-
-.container__star .star {
-    color: #ccc;
-}
-
 
 .stars {
   display: table;
@@ -37,12 +21,7 @@ Fin del comentario */
 .star {
   display: inline;
   cursor: pointer;
-  font-size: 2rem;
-  padding: 0 7px;
-  margin: 0 4px;
-  background: #1f5a8f;
-  border-radius: 21px;
-  line-height: 2;
+  font-size: 1.4rem;
 }
 
 .star:hover~.star,
@@ -50,7 +29,23 @@ Fin del comentario */
 .stars:not(:hover) .star.active~.star,
 .stars:not(:hover) .star.active {
   color: orange;
-  background: #ffffff;
+}
+
+
+.galeria-container--pdfs .vc_column_container .vc_column-inner > .wpb_wrapper{
+    padding: 1rem;
+    border-radius: .5rem;
+    border: 1px solid #333;
+    margin-bottom: .5rem;
+}
+
+.galeria-container--pdfs .title-wrapper{
+    margin-bottom: .5rem;
+}
+
+.galeria-container--pdfs .pdf-galeria{
+    text-align: center;
+    margin-bottom: .5rem;
 }
 
 </style>
