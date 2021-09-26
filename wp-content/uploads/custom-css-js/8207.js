@@ -7,7 +7,8 @@ jQuery(document).ready(function( $ ){
     
   btnModalVideo.on('click', () => { 
     let dataVideo = {
-      nameImage: '',
+      namePDF: '',
+      urlPDF: '',
       qualification: 0,
       nameScene: 'Fachada inicial',
       click_name: 'Vídeotutorial'
@@ -19,25 +20,21 @@ jQuery(document).ready(function( $ ){
 
 
 const clickStar = (data, value) => {
-  console.log(data);
   const src = data.url;
   let namePDF = '';
   if ( data.elem.length != 0 ) {
       namePDF = data.elem[0].innerHTML;
   }
-  console.log('name PDF: ', namePDF);
-  
-  const arrayNameImage = src.split("/");
-  const nameImage = arrayNameImage[arrayNameImage.length - 1];
   
   let dataImage = {
-    nameImage: data.url,
+    namePDF: namePDF,
+    urlPDF: data.url,
     qualification: value,
     nameScene: 'Lobby principal',
     click_name: 'Galería de Posters'
   }
-    console.log('data: ', dataImage);
-  //registerPointsDB( dataImage );
+  
+  registerPointsDB( dataImage );
 };
 
 
