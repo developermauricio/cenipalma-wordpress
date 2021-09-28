@@ -26,7 +26,7 @@ define( 'DB_NAME', 'cenipalma' );
 define( 'DB_USER', 'forge' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '4fEJCGp4IU7e0SgNa3fX' );
+define( 'DB_PASSWORD', 'WWYrY4oqGAI1whdjAilW' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );

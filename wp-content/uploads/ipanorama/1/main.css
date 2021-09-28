@@ -345,14 +345,15 @@ line-height:80px;
 color:rgba(31,90,143,0);
 }
 .ipnrm-1 [data-marker-id="A91AFEFE5B"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/navitrans1.png);
 background-size:contain;
 background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="A91AFEFE5B"] .ipnrm-lbl {
-font-size:40px;
-line-height:40px;
-color:#ffffff;
+font-size:90px;
+line-height:90px;
+color:rgba(255,255,255,0);
 }
 .ipnrm-1 [data-marker-id="C5FA104F69"] .ipnrm-tag {
 background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-disagro.png);
@@ -388,14 +389,15 @@ line-height:70px;
 color:rgba(31,90,143,0);
 }
 .ipnrm-1 [data-marker-id="44913CE9C6"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-imecol.png);
 background-size:contain;
 background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="44913CE9C6"] .ipnrm-lbl {
-font-size:40px;
-line-height:40px;
-color:#ffffff;
+font-size:90px;
+line-height:90px;
+color:rgba(255,255,255,0);
 }
 .ipnrm-1 [data-marker-id="32B070F87B"] .ipnrm-tag {
 background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/CID-LOGO-Final-01.jpg);
@@ -463,6 +465,21 @@ font-size:70px;
 line-height:70px;
 color:rgba(31,90,143,0);
 }
+.ipnrm-1 [data-marker-id="95F539FE4E"] .ipnrm-tag {
+background-image:url(https://reuniontecnicanacional.com/wp-content/uploads/2021/09/logo-EIMPSA.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="95F539FE4E"] .ipnrm-lbl {
+font-size:90px;
+line-height:90px;
+color:rgba(247,247,247,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
 .ipnrm-1 [data-marker-id="404785CC39"] .ipnrm-tag {
 background-size:contain;
 background-repeat:no-repeat;
@@ -471,6 +488,20 @@ background-position:50% 50%;
 .ipnrm-1 [data-marker-id="404785CC39"] .ipnrm-lbl {
 font-size:35px;
 line-height:35px;
+color:#d40808;
+margin-top:10px;
+margin-right:20px;
+margin-bottom:10px;
+margin-left:20px;
+}
+.ipnrm-1 [data-marker-id="E7B4869D98"] .ipnrm-tag {
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="E7B4869D98"] .ipnrm-lbl {
+font-size:50px;
+line-height:50px;
 color:#d40808;
 margin-top:10px;
 margin-right:20px;
@@ -2209,6 +2240,96 @@ background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="8E59C9BCF0"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="7AD39704B2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Asesor.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="7AD39704B2"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="BEF6BAB81E"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="BEF6BAB81E"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="1111D03649"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="1111D03649"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="15F3FB57B4"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="15F3FB57B4"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="99E540F71E"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="99E540F71E"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="94248EDB90"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="94248EDB90"] .ipnrm-lbl {
 font-size:40px;
 line-height:40px;
 color:rgba(255,255,255,0);

@@ -162,6 +162,11 @@ div.style-info {
 }
 
 
+div.rumbletalk-embed {
+    height: 550px;
+}
+
+
 /***  Estilos para moviles  ***/
 @media (max-width: 767.98px) { 
 	div.row-top-page {
