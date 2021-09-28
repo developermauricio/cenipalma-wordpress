@@ -11,6 +11,17 @@ font-size:35px;
 line-height:35px;
 color:#ffffff;
 }
+.ipnrm-1 [data-marker-id="FEB0FFF06D"] .ipnrm-tag {
+background-image:url(https://media.giphy.com/media/bly80fXqiKVQ1Lk0cY/giphy.gif?cid=790b7611c6852298e794a93b171a1b625775e27217b84550&rid=giphy.gif&ct=g);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="FEB0FFF06D"] .ipnrm-lbl {
+font-size:80px;
+line-height:80px;
+color:rgba(255,255,255,0);
+}
 .ipnrm-1 [data-marker-id="16E41958E9"] .ipnrm-tag {
 background-size:contain;
 background-repeat:no-repeat;
@@ -307,6 +318,17 @@ background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="5035C8260B"] .ipnrm-lbl {
+font-size:85px;
+line-height:85px;
+color:rgba(31,90,143,0);
+}
+.ipnrm-1 [data-marker-id="29D0C3E1B8"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/logo-fedepalma.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="29D0C3E1B8"] .ipnrm-lbl {
 font-size:85px;
 line-height:85px;
 color:rgba(31,90,143,0);
@@ -905,6 +927,51 @@ background-repeat:no-repeat;
 background-position:50% 50%;
 }
 .ipnrm-1 [data-marker-id="D10848C1CD"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="8D2854B920"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/web.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="8D2854B920"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="AA597FD3EA"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/Descarga-PDF.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="AA597FD3EA"] .ipnrm-lbl {
+font-size:40px;
+line-height:40px;
+color:rgba(255,255,255,0);
+margin-top:10px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:10px;
+}
+.ipnrm-1 [data-marker-id="90D49E3AB2"] .ipnrm-tag {
+background-image:url(/wp-content/uploads/2021/09/canal-de-youtube.png);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:50% 50%;
+}
+.ipnrm-1 [data-marker-id="90D49E3AB2"] .ipnrm-lbl {
 font-size:40px;
 line-height:40px;
 color:rgba(255,255,255,0);
