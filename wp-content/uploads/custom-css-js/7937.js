@@ -390,6 +390,7 @@ jQuery(document).ready(function( $ ){
   
       
   window.onChangeScene = ( e ) => {
+    console.log('info', e);
     const email = jQuery('#currentUserEmail').val();     
     if ( !email ) window.location.href = 'https://reuniontecnicanacional.com/';
     
